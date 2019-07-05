@@ -1,0 +1,32 @@
+[01-Dec-2017 13:44:33 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 13:44:33 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 13:54:42 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 13:54:42 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 13:58:24 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 13:58:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 13:59:44 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 13:59:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 15:09:40 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 15:09:40 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 15:22:01 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 15:22:01 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 15:35:46 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 15:35:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[01-Dec-2017 15:46:04 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[01-Dec-2017 15:46:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 02:06:56 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 02:06:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[02-Dec-2017 10:54:04 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[02-Dec-2017 10:54:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[03-Dec-2017 13:02:37 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[03-Dec-2017 13:02:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 19:02:12 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[06-Dec-2017 19:02:12 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[06-Dec-2017 20:08:11 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[06-Dec-2017 20:08:11 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[07-Dec-2017 05:19:07 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[07-Dec-2017 05:19:07 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[07-Dec-2017 05:23:44 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[07-Dec-2017 05:23:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[07-Dec-2017 05:23:46 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.2.4. Replace with woocommerce_add_to_cart_fragments.
+[07-Dec-2017 05:23:46 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
